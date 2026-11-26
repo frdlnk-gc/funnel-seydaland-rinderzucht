@@ -1,0 +1,146 @@
+{
+ "firma": "Seydaland Rinderzucht",
+ "stelle": "Mechaniker für Stalltechnik (m/w/d)",
+ "ort": "Jessen",
+ "plz": "06917",
+ "branche": "landwirtschaft",
+ "stelle_id": 1516,
+ "farbe_primary": "#00713D",
+ "farbe_secondary": "#233E99",
+ "region_badge": "Jessen & Umgebung",
+ "benefit_top": "Unbefristet & voll ausgestatteter Firmenwagen",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag – in Vollzeit oder Teilzeit",
+  "Voll ausgestatteter Firmenwagen",
+  "Firmenhandy",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Betriebliche Altersvorsorge",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Hilfe bei der Wohnungssuche",
+  "Flache Hierarchien und strukturierte Abläufe",
+  "Freundliches Arbeitsklima und regelmäßige Firmenfeiern"
+ ],
+ "aufgaben": [
+  "Du wartest und reparierst unsere Melkroboter und technischen Anlagen",
+  "Du analysierst Fehler und behebst technische Störungen",
+  "Du stimmst dich mit unseren festen Servicepartnern ab und beauftragst sie"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung als Schlosser, Metallbauer, Industriemechaniker oder eine vergleichbare Qualifikation – gern auch als Quereinsteiger mit landwirtschaftlichem Hintergrund. Dazu handwerkliches Geschick, technisches Verständnis, Zuverlässigkeit, Teamfähigkeit und Führerschein Klasse B. Noch keine Erfahrung mit Melktechnik? Du bekommst eine intensiv begleitete Einarbeitung.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Schlosser / Metallbauer",
+   "icon": "🔩",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Industriemechaniker / vergleichbar",
+   "icon": "⚙️",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Landwirtschaft (Quereinstieg)",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, Klasse B",
+   "icon": "🚗"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "60",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "1991",
+    "label": "gegründet"
+   }
+  ],
+  "text": "Seydaland ist ein traditionsreiches Unternehmen mit Kernkompetenzen in moderner Landwirtschaft. Die Geschäftsfelder: Milchviehhaltung, Acker- und Gemüseanbau, Bioanbau und alle Formen der erneuerbaren Energien im Einklang mit der Landwirtschaft. Mit 60 Mitarbeitern in vielen dynamischen Teams, die seit Jahren zusammenarbeiten."
+ },
+ "kunde_tab": "75 Seydaland Rinderzucht",
+ "quelle": "https://seydaland-rinderzucht.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Jessen (06917)"
+ },
+ "hero_bild": "img/hero-kuehe.jpg",
+ "bilder": [
+  "img/f-melkroboter.jpg",
+  "img/f-melkroboter-technik.jpg",
+  "img/f-kaelber-stall.jpg",
+  "img/f-kuh-stall.jpg",
+  "img/f-haecksler-gras.jpg",
+  "img/f-ruebenernte.jpg"
+ ],
+ "meta_geo": [
+  "Jüterboger Str. 85, 06917 Jessen"
+ ]
+}
